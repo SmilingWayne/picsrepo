@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 480" width="1000" height="480" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Noto Sans CJK JP','Yu Gothic','Microsoft YaHei',sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#b03a2e"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="480" fill="#faf7f2"/>
+  <text x="50" y="58" font-size="28" font-weight="700" fill="#2b2b2b">日本女性发髻的时代演变</text>
+  <text x="50" y="86" font-size="15" fill="#8a7f70">日本髪（にほんがみ / Nihongami）：从平安「垂髪」到现代的「新日本髪」</text>
+
+  <line x1="80" y1="286" x2="942" y2="286" stroke="#c9b79c" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- node 1 -->
+  <line x1="120" y1="258" x2="120" y2="286" stroke="#c9b79c" stroke-width="2"/>
+  <circle cx="120" cy="286" r="7" fill="#b03a2e"/>
+  <text x="120" y="216" font-size="15" font-weight="700" fill="#2b2b2b" text-anchor="middle">平安〜室町</text>
+  <text x="120" y="240" font-size="14" fill="#b03a2e" text-anchor="middle">垂髪</text>
+  <text x="120" y="322" font-size="12" fill="#6b6357" text-anchor="middle">长直发自然下垂</text>
+  <text x="120" y="340" font-size="12" fill="#6b6357" text-anchor="middle">以「大垂髪」为贵</text>
+
+  <!-- node 2 -->
+  <line x1="290" y1="258" x2="290" y2="286" stroke="#c9b79c" stroke-width="2"/>
+  <circle cx="290" cy="286" r="7" fill="#b03a2e"/>
+  <text x="290" y="216" font-size="15" font-weight="700" fill="#2b2b2b" text-anchor="middle">安土桃山</text>
+  <text x="290" y="240" font-size="14" fill="#b03a2e" text-anchor="middle">結髪萌芽</text>
+  <text x="290" y="322" font-size="12" fill="#6b6357" text-anchor="middle">头发开始束起成髻</text>
+  <text x="290" y="340" font-size="12" fill="#6b6357" text-anchor="middle">游女引领风潮</text>
+
+  <!-- node 3 -->
+  <line x1="470" y1="258" x2="470" y2="286" stroke="#c9b79c" stroke-width="2"/>
+  <circle cx="470" cy="286" r="7" fill="#3a6ea5"/>
+  <text x="470" y="216" font-size="15" font-weight="700" fill="#2b2b2b" text-anchor="middle">江戸前期</text>
+  <text x="470" y="240" font-size="14" fill="#3a6ea5" text-anchor="middle">立兵庫・元禄島田</text>
+  <text x="470" y="322" font-size="12" fill="#6b6357" text-anchor="middle">细长形为主流</text>
+  <text x="470" y="340" font-size="12" fill="#6b6357" text-anchor="middle">「髱」向后突出</text>
+
+  <!-- node 4 -->
+  <line x1="650" y1="258" x2="650" y2="286" stroke="#c9b79c" stroke-width="2"/>
+  <circle cx="650" cy="286" r="7" fill="#3a6ea5"/>
+  <text x="650" y="216" font-size="15" font-weight="700" fill="#2b2b2b" text-anchor="middle">江戸中〜後期</text>
+  <text x="650" y="240" font-size="14" fill="#3a6ea5" text-anchor="middle">島田・勝山・丸髷</text>
+  <text x="650" y="322" font-size="12" fill="#6b6357" text-anchor="middle">现行样式定型</text>
+  <text x="650" y="340" font-size="12" fill="#6b6357" text-anchor="middle">按职业／婚否区分</text>
+
+  <!-- node 5 -->
+  <line x1="815" y1="258" x2="815" y2="286" stroke="#c9b79c" stroke-width="2"/>
+  <circle cx="815" cy="286" r="7" fill="#7a5c3e"/>
+  <text x="815" y="216" font-size="15" font-weight="700" fill="#2b2b2b" text-anchor="middle">明治〜大正</text>
+  <text x="815" y="240" font-size="14" fill="#7a5c3e" text-anchor="middle">束髪・夜会巻き</text>
+  <text x="815" y="322" font-size="12" fill="#6b6357" text-anchor="middle">洋风折衷</text>
+  <text x="815" y="340" font-size="12" fill="#6b6357" text-anchor="middle">「耳隠し」流行</text>
+
+  <!-- node 6 -->
+  <line x1="925" y1="258" x2="925" y2="286" stroke="#c9b79c" stroke-width="2"/>
+  <circle cx="925" cy="286" r="7" fill="#7a5c3e"/>
+  <text x="925" y="216" font-size="15" font-weight="700" fill="#2b2b2b" text-anchor="middle">現代</text>
+  <text x="925" y="240" font-size="14" fill="#7a5c3e" text-anchor="middle">新日本髪</text>
+  <text x="925" y="322" font-size="12" fill="#6b6357" text-anchor="middle">花嫁・舞妓</text>
+  <text x="925" y="340" font-size="12" fill="#6b6357" text-anchor="middle">晴れ着之日</text>
+
+  <text x="50" y="452" font-size="11" fill="#a99f90">来源：日本語版 Wikipedia「日本髪」词条整理 ｜ 示意图为本站自绘（SVG）</text>
+</svg>
