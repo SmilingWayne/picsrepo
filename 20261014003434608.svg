@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+<title id="title">读懂日本髪：形态、身份、场合</title><desc id="desc">四个观察入口：岛田髷看中途束紧；兵库髷看发轮方向；胜山髷看折回发轮；舞妓看布饰前后位置。此图是文字辨识卡片，不是发型复原图。</desc>
+<rect width="1000" height="700" rx="24" fill="#f5f0e7"/>
+<g font-family="Hiragino Sans, Noto Sans CJK SC, sans-serif" fill="#263d3c">
+<text x="52" y="64" font-size="17" letter-spacing="4">NIHONGAMI · 观察笔记</text>
+<text x="52" y="115" font-size="36" font-weight="700">先辨结构，再读身份与场合</text>
+<text x="52" y="152" font-size="18">名称不是身份的唯一答案；年代、地域和图像出处同样重要。</text>
+<rect x="52" y="188" width="434" height="192" rx="14" fill="#fffdf8"/>
+<rect x="514" y="188" width="434" height="192" rx="14" fill="#fffdf8"/>
+<rect x="52" y="402" width="434" height="192" rx="14" fill="#fffdf8"/>
+<rect x="514" y="402" width="434" height="192" rx="14" fill="#fffdf8"/>
+<g font-size="16" fill="#aa674c"><text x="76" y="223">01 · 束紧的位置</text><text x="538" y="223">02 · 发轮的方向</text><text x="76" y="437">03 · 折回与膨展</text><text x="538" y="437">04 · 布饰与阶段</text></g>
+<g font-size="29" font-weight="700"><text x="76" y="272">島田髷</text><text x="538" y="272">兵庫髷 → 横兵庫</text><text x="76" y="486">勝山髷 → 丸髷</text><text x="538" y="486">割れしのぶ → おふく</text></g>
+<g font-size="19"><text x="76" y="315">折回的髻，在中途束紧。</text><text x="76" y="349">家族内有多种变体与使用场合。</text><text x="538" y="315">从高起的发轮，观察横向展开。</text><text x="538" y="349">不能只凭发簪数量判定名称。</text><text x="76" y="529">下垂发束向前折回形成轮髻。</text><text x="76" y="563">膨展后的丸髷与已婚装束关联。</text><text x="538" y="529">红布前后可见 → 布饰后侧可见。</text><text x="538" y="563">京都舞妓的阶段性辨识线索。</text></g>
+<text x="52" y="643" font-size="16">本站整理 · 概念辨识卡，非复原图或完整发型谱系</text>
+<text x="52" y="671" font-size="15">依据：POLA 文化研究所《兵庫髷》《島田髷》《勝山髷》；京都传统伎艺振兴财团</text>
+</g></svg>
