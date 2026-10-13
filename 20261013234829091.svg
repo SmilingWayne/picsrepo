@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" width="1000" height="640" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Noto Sans CJK JP','Yu Gothic','Microsoft YaHei',sans-serif">
+  <rect width="1000" height="640" fill="#faf7f2"/>
+  <text x="50" y="58" font-size="28" font-weight="700" fill="#2b2b2b">日本髪的五大部分（结构分解）</text>
+  <text x="50" y="86" font-size="15" fill="#8a7f70">前髪・鬢・髷・髱（つと）4 部分 + 髪飾り，共同构成女性结发造型</text>
+
+  <!-- back hair mass -->
+  <ellipse cx="360" cy="330" rx="168" ry="185" fill="#3f362e"/>
+  <!-- face -->
+  <ellipse cx="360" cy="345" rx="112" ry="140" fill="#f7e4d0" stroke="#dcbfa0" stroke-width="2"/>
+  <!-- front hair (maegami) -->
+  <path d="M248,300 A112,140 0 0 1 472,300 L472,270 A120,120 0 0 0 248,270 Z" fill="#6b8fb5" opacity="0.95"/>
+  <path d="M248,300 C270,250 300,230 360,232 C420,230 450,250 472,300 C440,262 400,250 360,250 C320,250 280,262 248,300 Z" fill="#5a7ea6"/>
+  <!-- bin (sides) -->
+  <ellipse cx="238" cy="330" rx="34" ry="86" fill="#7aa876"/>
+  <ellipse cx="482" cy="330" rx="34" ry="86" fill="#7aa876"/>
+  <!-- mage (top bun) -->
+  <ellipse cx="360" cy="182" rx="72" ry="46" fill="#c0603f"/>
+  <rect x="316" y="196" width="88" height="26" rx="10" fill="#a94e30"/>
+  <!-- tsuto (back pouf) -->
+  <ellipse cx="360" cy="470" rx="104" ry="52" fill="#8e7cc3"/>
+
+  <!-- leader lines + labels -->
+  <!-- mage -->
+  <line x1="432" y1="178" x2="620" y2="150" stroke="#c0603f" stroke-width="2"/>
+  <circle cx="432" cy="178" r="4" fill="#c0603f"/>
+  <text x="632" y="146" font-size="17" font-weight="700" fill="#c0603f">髷　まげ</text>
+  <text x="632" y="170" font-size="13" fill="#6b6357">头顶束起、折返的髻</text>
+
+  <!-- maegami -->
+  <line x1="300" y1="260" x2="620" y2="230" stroke="#5a7ea6" stroke-width="2"/>
+  <circle cx="300" cy="260" r="4" fill="#5a7ea6"/>
+  <text x="632" y="226" font-size="17" font-weight="700" fill="#5a7ea6">前髪　まえがみ</text>
+  <text x="632" y="250" font-size="13" fill="#6b6357">额前刘海，决定风格基调</text>
+
+  <!-- bin -->
+  <line x1="238" y1="300" x2="620" y2="310" stroke="#5f8a5d" stroke-width="2"/>
+  <circle cx="238" cy="300" r="4" fill="#5f8a5d"/>
+  <text x="632" y="306" font-size="17" font-weight="700" fill="#5f8a5d">鬢　びん</text>
+  <text x="632" y="330" font-size="13" fill="#6b6357">两鬓侧发，横向张出</text>
+
+  <!-- tsuto -->
+  <line x1="430" y1="470" x2="620" y2="410" stroke="#8e7cc3" stroke-width="2"/>
+  <circle cx="430" cy="470" r="4" fill="#8e7cc3"/>
+  <text x="632" y="406" font-size="17" font-weight="700" fill="#8e7cc3">髱／つと</text>
+  <text x="632" y="430" font-size="13" fill="#6b6357">后颈发，向后或向下膨出</text>
+
+  <!-- accessories legend -->
+  <line x1="50" y1="552" x2="950" y2="552" stroke="#e0d6c6" stroke-width="1"/>
+  <text x="50" y="586" font-size="14" font-weight="700" fill="#2b2b2b">髪飾り・工具：</text>
+  <text x="50" y="612" font-size="13" fill="#6b6357">簪（かんざし）发簪　·　櫛（くし）梳子　·　笄（こうがい）发笄　·　元結（もとゆい）纸结绳　·　手絡（てがら）缠布　·　丈長（たけひさ）垫高髻的纸</text>
+</svg>
